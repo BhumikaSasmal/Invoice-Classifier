@@ -109,6 +109,8 @@ streamlit run app.py
     "model_accuracy": "83.33%"
 }
 
+<img width="1959" height="946" alt="image" src="https://github.com/user-attachments/assets/36ae0a76-1c1d-47b9-ae26-5750ef08638a" />
+
 
 ---
 
