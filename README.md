@@ -110,7 +110,7 @@ streamlit run app.py
 }
 ### Streamlit UI
 
-<img width="2269" height="986" alt="image" src="https://github.com/user-attachments/assets/1a80c5e3-fdc5-4c5c-b145-43c577e423b5" />
+<img width="1676" height="873" alt="image" src="https://github.com/user-attachments/assets/68375849-b6fc-49d3-99fe-04da371ca3fc" />
 
 <img width="1959" height="946" alt="image" src="https://github.com/user-attachments/assets/36ae0a76-1c1d-47b9-ae26-5750ef08638a" />
 
