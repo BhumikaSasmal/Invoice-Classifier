@@ -118,3 +118,10 @@ streamlit run app.py
 # Accuracy
 
 Current model accuracy: 83.33%
+
+---
+
+# Known Limitations
+
+- Low confidence score due to the sample dataset being too small
+- very basic UI implementation
