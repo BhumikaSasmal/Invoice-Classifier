@@ -1,4 +1,4 @@
-# Invoice Expense Classification API
+# Invoice Classification API
 
 A machine learning based REST API that classifies invoice expenses such as Logistics, Travel, Utilities, Inventory, Office Supplies, and Cloud/Software.
 
