@@ -111,9 +111,10 @@ streamlit run app.py
 ### Streamlit UI
 
 <img width="1959" height="946" alt="image" src="https://github.com/user-attachments/assets/36ae0a76-1c1d-47b9-ae26-5750ef08638a" />
+
 ### Postman
 
-<img width="1634" height="1000" alt="image" src="https://github.com/user-attachments/assets/7f6aecad-1ec2-4158-95c0-21519e4bc41c" />
+<img width="1500" height="1000" alt="image" src="https://github.com/user-attachments/assets/7f6aecad-1ec2-4158-95c0-21519e4bc41c" />
 
 
 
