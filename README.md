@@ -46,10 +46,10 @@ invoice-classifier/
 - cd invoice-classifier
 ## 2. Create Virtual Environment
 python -m venv .venv
-Activate virtual environment:
-### Windows
+### Activate virtual environment:
+####  Windows
 .venv\Scripts\activate
-### Mac/Linux
+#### Mac/Linux
 source .venv/bin/activate
 
 ---
