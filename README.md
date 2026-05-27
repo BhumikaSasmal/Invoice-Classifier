@@ -42,8 +42,8 @@ invoice-classifier/
 # Setup Instructions
 
 ## 1. Clone Repository
-git clone <your-github-repo-link>
-cd invoice-classifier
+- git clone [<your-github-repo-link>](https://github.com/BhumikaSasmal/Invoice-Classifier)
+- cd invoice-classifier
 ## 2. Create Virtual Environment
 python -m venv .venv
 Activate virtual environment:
